@@ -1,3 +1,6 @@
+Author: ZhongzhiZhang 
+Email:zhzh6941@coloraodo.edu
+
 Q: Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
 A: The essential difficulties is refering to those difficulties is refering to the difficulties which are inherited from the very nature of the software developing. The specification, design, and testing of the conceptual construct in the software made up of the essential difficulties for software developing. One possible example of an essential difficulty, e.g. a bug in a financial system caused by a conflict in state/federal regulations on one type of transaction is a typical instance of essential difficulties.
@@ -23,7 +26,8 @@ A: A "silver bullet" means something to make software costs drop as rapidly as c
 
 
 Q:In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
-A: 
+
+A: The work of software engineering starts from the where the computer science ended. Like the chemist, the job of a computer scientist is to discover a new theory or a new tchnology, like the chemical engineer, the job of a software engineer is to apply those technologys in real world to solve certain problems under centain circumstances.Like the example rasied up in the lecture, it is the IBM's scientist job to develop the technology that can store 1 bit with 12 atoms and it will be a engineer's job to use this technolgy to develop to a new-generation SIM card.
 
 
 Q:In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
