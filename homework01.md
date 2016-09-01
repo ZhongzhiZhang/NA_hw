@@ -27,6 +27,7 @@ A:
 
 
 Q:In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+
 A: Abstractions means to get the very nature of the software that break the problem down into something that is understandable. Conversations are inportant because software programming is conducted for the people and by the people. To understand the request of the clients and to communicate within the developing team, we need conversations.Specification means to make everything into concrete details. Translation means that as a software programmer, one needs to interpret the software from one level to another level all the time.Iteration means that the software development needs to be conducted in a iterative manner. In this way we can always start from a milestone when smething is done.
 
   
